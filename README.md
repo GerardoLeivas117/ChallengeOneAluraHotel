@@ -21,12 +21,11 @@ Plugin WindowBuilder
 Presentacion de datos por medio de tablas
 <br>
 Ingreso por usuario y contraseña
-<br>
-Plataforma: Escritorio </p>
+
 
 
 <hr>
-<p>En caso de necesitar ayuda llame a 
+<p>Contacto:  
 gdleivas@gmail.com<p>
 
 <hr>
