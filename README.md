@@ -12,26 +12,18 @@ Plugin WindowBuilder
 
 ![imagen principal](https://user-images.githubusercontent.com/91544872/189419249-06b539da-7cf2-4d40-a711-618a5c872096.png)
 
-<h1>Plataforma para registrar clientes y reservas de un hotel</h1>
 
 <hr>
 
 <h2>Funcionalidades:<h2>
-<p> Carga, edicion y eliminacion de datos de clientes y reservas.
+<p> Carga, edicion y eliminacion de datos de clientes y reservas de hotel.
 <br>
 Presentacion de datos por medio de tablas
 <br>
-Todo protegido por un sistema de seguridad de nombre de usuario y contraseña personalizada para cada usuario
+Ingreso por usuario y contraseña
 <br>
-Los usuarios podra usarlo por medio de la pc, la version por movil aun en desarrollo </p>
+Plataforma: Escritorio </p>
 
-<hr>
-<p>Tecnologias usadas:
-<ul>
-<li>JAVA</li>
-<li>JDBC</li>
-<li>MySQL</li>
-</ul>
 
 <hr>
 <p>En caso de necesitar ayuda llame a 
