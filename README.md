@@ -36,8 +36,7 @@ Los usuarios podra usarlo por medio de la pc, la version por movil aun en desarr
 
 <hr>
 <p>En caso de necesitar ayuda llame a 
-<a href:"gdleivas@gmail.com"> Email</a><p>
+gdleivas@gmail.com<p>
 
 <hr>
-<p> Autor
-Gedard (Codigo y bases de datos)</p>
+<p> Autor Gerardo (Codigo y bases de datos)</p>
