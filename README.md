@@ -28,10 +28,9 @@ Los usuarios podra usarlo por medio de la pc, la version por movil aun en desarr
 <hr>
 <p>Tecnologias usadas:
 <ul>
-<li>html</li>
-<li>java script</li>
-<li>css</li>
-<li>Reac</li>
+<li>JAVA</li>
+<li>JDBC</li>
+<li>MySQL</li>
 </ul>
 
 <hr>
